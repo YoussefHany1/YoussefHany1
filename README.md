@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in React.js.<br>👯 I’m looking to collaborate on projects and exciting front-end challenges.<br>🤝 I’m looking for help with expanding my front-end development.<br>🌱 I’m currently learning React Native to build mobile apps.<br>⚡ Fun fact: I love exploring new web technologies and optimizing UI/UX for better performance!<br><br>
+🔭 I’m currently working on improving my skills in React.js.<br>👯 I’m looking to collaborate on projects and exciting front-end challenges.<br>🤝 I’m looking for help with expanding my front-end development.<br>⚡ Fun fact: I love exploring new web technologies and optimizing UI/UX for better performance!<br><br>
 
 
 ## 🌐 Socials:
